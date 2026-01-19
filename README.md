@@ -6,4 +6,6 @@ dwow profile views!:
 
 **89282211st person to register on github**
 
-me have domain: [yum website](https://jameslin.info/)
+projects: [website](https://jameslin.info/)
+
+email: [email](mailto://github@jameslin.info/)
