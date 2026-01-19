@@ -8,4 +8,4 @@ dwow profile views!:
 
 projects: [website](https://jameslin.info/)
 
-email: [email](mailto://github@jameslin.info/)
+email: [email](mailto:github@jameslin.info)
