@@ -1,4 +1,4 @@
-dwow profile views!:
+dwow profile views:
 ![](https://komarev.com/ghpvc/?username=part-avocado&color=green)
 
 
