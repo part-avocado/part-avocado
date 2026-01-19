@@ -4,6 +4,6 @@ dwow profile views!:
 
 *established 2021-08-20 T23:37:49Z*
 
-**the 89282211st person to use github**
+**89282211st person to register on github**
 
 me have domain: [yum website](https://jameslin.info/)
