@@ -6,6 +6,6 @@ dwow profile views!:
 
 **89282211st person to register on github**
 
-projects: [website](https://jameslin.info/)
+projects: [website](https://jameslin.info/projects/)
 
 email: [email](mailto:github@jameslin.info)
