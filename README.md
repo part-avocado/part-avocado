@@ -4,7 +4,7 @@ dwow profile views:
 
 *established 2021-08-20 T23:37:49Z*
 
-**89282211st person to register on github**
+89282211st person to register on github
 
 [email](mailto:github@jameslin.info)
 
