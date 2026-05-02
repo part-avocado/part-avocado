@@ -1,4 +1,4 @@
-<h2 align="center">james lin</h2>
+<h2 align="center">james</h2>
 <p align="center">
   <samp>
     <a href="https://github.com/part-avocado">GitHub</a> ∙
