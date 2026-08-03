@@ -11,7 +11,7 @@
 <p align="center">
   <samp>
     wowie profile views: <br> 
-    <img src="https://count.getloli.com/@page views?name=page+views&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
+    <img src="https://count.getloli.com/@page views?name=page+views&theme=asoul&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
   </samp>
 </p>
 <br>
