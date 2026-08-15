@@ -1,3 +1,5 @@
+<img src="https://gh-ascii.vercel.app/part-avocado?theme=light"/>
+
 <h2 align="center">james lin</h2>
 <p align="center">
   <samp>
