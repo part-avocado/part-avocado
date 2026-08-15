@@ -1,6 +1,7 @@
-<img src="https://gh-ascii.vercel.app/part-avocado?theme=light"/>
-
 <h2 align="center">james lin</h2>
+
+<img src="https://gh-ascii.vercel.app/part-avocado?theme=dark"/>
+
 <p align="center">
   <samp>
     <a href="https://github.com/part-avocado">GitHub</a> ∙
