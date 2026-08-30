@@ -4,9 +4,7 @@
 
 <p align="center">
   <samp>
-    <a href="https://github.com/part-avocado">GitHub</a> ∙
     <a href="https://jameslin.info">Website</a> ∙
-    <a href="https://jameslin.info/blog">Blog</a> ∙
     <a href="mailto:github@jameslin.info">Email</a>
   </samp>
 </p>
