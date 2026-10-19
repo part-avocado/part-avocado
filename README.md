@@ -4,7 +4,7 @@
 
 <p align="center">
   <samp>
-    <a href="https://partavocado.cc">Website</a> ∙
+    <a href="https://partavocado.cc">Website</a> *
     <a href="mailto:github@partavocado.cc">Email</a>
   </samp>
 </p>
@@ -24,3 +24,5 @@
 </p>
 
 ![](https://hackatime-badge.hackclub.com/U0C7B14Q3/harbor)
+
+Checkout all of my forked projects [here](https://github.com/partavocado-forks)
